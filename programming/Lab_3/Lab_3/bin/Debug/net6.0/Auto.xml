@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Autos>
+  <Auto>
+    <Surname>Іванов</Surname>
+    <Plate>AB123CD</Plate>
+    <Mark>МаркаX</Mark>
+    <Price>25000</Price>
+    <Address>Адреса1</Address>
+  </Auto>
+  <Auto>
+    <Surname>Петров</Surname>
+    <Plate>XY777ZZ</Plate>
+    <Mark>МаркаY</Mark>
+    <Price>30000</Price>
+    <Address>Адреса2</Address>
+  </Auto>
+</Autos>

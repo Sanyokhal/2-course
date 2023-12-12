@@ -1,0 +1,72 @@
+[
+  {
+    "code": 1,
+    "author": "\u0413\u0430\u043b\u044c \u041e\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0412\u0456\u0442\u0430\u043b\u0456\u0439\u043e\u0432\u0438\u0447",
+    "price": 1500,
+    "score": {
+      "competion_1": 5,
+      "competion_2": 4,
+      "competion_3": 5
+    }
+  },
+  {
+    "code": 2,
+    "author": "\u0413\u043b\u0443\u0445\u0430\u043d\u0438\u0447 \u0421\u0442\u0430\u043d\u0456\u0441\u043b\u0430\u0432",
+    "price": 1000,
+    "score": {
+      "competion_1": 4,
+      "competion_2": 5,
+      "competion_3": 4
+    }
+  },
+  {
+    "code": 3,
+    "author": "\u041a\u0438\u0440\u0438\u043b\u0435\u043d\u043a\u043e \u042f\u0440\u043e\u0441\u043b\u0430\u0432",
+    "price": 1700,
+    "score": {
+      "competion_1": 5,
+      "competion_2": 5,
+      "competion_3": 5
+    }
+  },
+  {
+    "code": 4,
+    "author": "\u0414\u0437\u044c\u043e\u0431\u0430\u043a \u0410\u0440\u0442\u0443\u0440",
+    "price": 1750,
+    "score": {
+      "competion_1": 5,
+      "competion_2": 5,
+      "competion_3": 5
+    }
+  },
+  {
+    "code": "7",
+    "author": "hnhfdjyd",
+    "price": "24678",
+    "score": {
+      "competion_1": "4",
+      "competion_2": "3",
+      "competion_3": "2"
+    }
+  },
+  {
+    "code": "5",
+    "author": "dna sbhdjsd",
+    "price": "3213",
+    "score": {
+      "competion_1": "2",
+      "competion_2": "2",
+      "competion_3": "2"
+    }
+  },
+  {
+    "code": "6",
+    "author": "123",
+    "price": "5434523",
+    "score": {
+      "competion_1": "4",
+      "competion_2": "4",
+      "competion_3": "1"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.csproj.AssemblyReference.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.AssemblyInfoInputs.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.AssemblyInfo.cs
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.csproj.CoreCompileInputs.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\bin\Debug\net6.0\Шаблони.exe
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\bin\Debug\net6.0\Шаблони.deps.json
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\bin\Debug\net6.0\Шаблони.runtimeconfig.json
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\bin\Debug\net6.0\Шаблони.dll
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\bin\Debug\net6.0\Шаблони.pdb
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.dll
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\refint\Шаблони.dll
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.pdb
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Шаблони.genruntimeconfig.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\ref\Шаблони.dll

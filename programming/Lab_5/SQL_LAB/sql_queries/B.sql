@@ -1,0 +1,1 @@
+﻿SELECT * FROM workers WHERE room_num BETWEEN 20 AND 50

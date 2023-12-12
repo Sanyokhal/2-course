@@ -1,0 +1,22 @@
+<?php
+
+/** @var array $projects */
+$projects;
+
+?>
+<table border="1">
+    <tr>
+        <th>Код</th>
+        <th>Автор</th>
+        <th>Ціна</th>
+        <th>Оцінки</th>
+    </tr>
+    <?php foreach ($projects as $project): ?>
+    <tr>
+        <td><?= $project['code']; ?></td>
+        <td><?= $project['author']; ?></td>
+        <td><?= $project['price']; ?></td>
+        <td><?= implode(',', $project['score']); ?></td>
+    </tr>
+    <?php endforeach; ?>
+</table>

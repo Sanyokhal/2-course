@@ -1,0 +1,1 @@
+﻿SELECT * FROM workers GROUP BY pc_model

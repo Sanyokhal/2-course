@@ -1,0 +1,1 @@
+﻿SELECT DISTINCT section_name FROM workers

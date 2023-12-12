@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Labka_2_shablony/1.0.0": {
+        "runtime": {
+          "Labka_2_shablony.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Labka_2_shablony/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

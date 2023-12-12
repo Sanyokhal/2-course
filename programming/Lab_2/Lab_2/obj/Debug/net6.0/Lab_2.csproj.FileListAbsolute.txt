@@ -1,0 +1,30 @@
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+C:\Users\admin\Desktop\Програмування_лабки_2-3\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.exe
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.deps.json
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.runtimeconfig.json
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.dll
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\bin\Debug\net6.0\Lab_2.pdb
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.AssemblyInfo.cs
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.dll
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\refint\Lab_2.dll
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.pdb
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\Lab_2.genruntimeconfig.cache
+C:\Users\Dream Store\Desktop\programming_labs-main\Lab_2\Lab_2\obj\Debug\net6.0\ref\Lab_2.dll

@@ -1,0 +1,5 @@
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Андрашко.csproj.AssemblyReference.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Андрашко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Андрашко.AssemblyInfoInputs.cache
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Андрашко.AssemblyInfo.cs
+C:\Users\Dream Store\Desktop\Андрашко\Андрашко\obj\Debug\net6.0\Андрашко.csproj.CoreCompileInputs.cache

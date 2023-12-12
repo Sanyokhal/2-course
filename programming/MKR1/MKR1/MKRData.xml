@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Hal>
+    <Id>1</Id>
+    <Surname>Hal</Surname>
+    <Course>2</Course>
+  </Hal>
+  <Vohar>
+    <Id>2</Id>
+    <Surname>Vohar</Surname>
+    <Course>2</Course>
+  </Vohar>
+  <Pivkach>
+    <Id>3</Id>
+    <Surname>Pivkach</Surname>
+    <Course>2</Course>
+  </Pivkach>
+  <Adjeju>
+    <Id>4</Id>
+    <Surname>Adjeju</Surname>
+    <Course>3</Course>
+  </Adjeju>
+</Students>

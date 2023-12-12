@@ -1,0 +1,1 @@
+﻿SELECT * FROM workers WHERE section_name = 'Server' AND pc_model = 'UV-fa312'

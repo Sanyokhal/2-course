@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\bin\Debug\net6.0\Labka_2_shablony.exe
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\bin\Debug\net6.0\Labka_2_shablony.deps.json
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\bin\Debug\net6.0\Labka_2_shablony.runtimeconfig.json
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\bin\Debug\net6.0\Labka_2_shablony.dll
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\bin\Debug\net6.0\Labka_2_shablony.pdb
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.AssemblyInfo.cs
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.dll
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\refint\Labka_2_shablony.dll
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.pdb
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\Labka_2_shablony.genruntimeconfig.cache
+C:\Users\admin\Desktop\programming_labs\Labka_2_shablony\Labka_2_shablony\obj\Debug\net6.0\ref\Labka_2_shablony.dll

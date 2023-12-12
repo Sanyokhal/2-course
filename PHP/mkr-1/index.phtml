@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Список студентів</title>
+</head>
+<body>
+<h1>Список студентів</h1>
+<form method="post" action="">
+    <input type="submit" name="sort_asc" value="Сортувати за ім'ям (А-Я)">
+    <input type="submit" name="sort_desc" value="Сортувати за ім'ям (Я-А)">
+</form>
+
+<?php
+$students = [
+    ['id' => 1, 'name' => 'Іван Петров', 'course' => 2, 'specialty' => 'Інформатика'],
+    ['id' => 2, 'name' => 'Марія Сидорова', 'course' => 3, 'specialty' => 'Економіка'],
+    ['id' => 3, 'name' => 'Олександр Галь', 'course' => 2, 'specialty' => 'Сись аналіз'],
+    ['id' => 4, 'name' => 'Півкач Віктор', 'course' => 2, 'specialty' => 'Сись аналіз'],
+    ['id' => 5, 'name' => 'Максим Кевпанич', 'course' => 2, 'specialty' => 'Сись аналіз'],
+    ['id' => 6, 'name' => 'Вогар Андрій', 'course' => 2, 'specialty' => 'Сись аналіз'],
+];
+if (isset($_POST['sort_asc'])) { // А-Я
+    usort($students, function ($a, $b) {
+        return wcscmp($a['name'], $b['name']);
+    });
+} elseif (isset($_POST['sort_desc'])) { //Я - А
+    usort($students, function ($a, $b) {
+        return strcmp($b['name'], $a['name']);
+    });
+}
+?>
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>ПІБ</th>
+        <th>Курс</th>
+        <th>Спеціальність</th>
+    </tr>
+    </thead>
+    <tbody>
+<?php
+foreach ($students as $student) {
+    echo '
+    <tr>';
+    echo '
+        <td>' . $student['id'] . '</td>
+        ';
+    echo '
+        <td>' . $student['name'] . '</td>
+        ';
+    echo '
+        <td>' . $student['course'] . '</td>
+        ';
+    echo '
+        <td>' . $student['specialty'] . '</td>
+        ';
+    echo '
+    </tr>
+    ';
+}
+?>
+    </tbody>
+</table>
+
+</body>
+</html>

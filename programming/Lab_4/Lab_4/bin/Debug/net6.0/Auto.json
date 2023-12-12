@@ -1,0 +1,16 @@
+[
+  {
+    "surname": "Іванов",
+    "plate": "AB123CD",
+    "mark": "МаркаX",
+    "price": 25000,
+    "address": "Адреса1"
+  },
+  {
+    "surname": "Петров",
+    "plate": "XY777ZZ",
+    "mark": "МаркаY",
+    "price": 30000,
+    "address": "Адреса2"
+  }
+]

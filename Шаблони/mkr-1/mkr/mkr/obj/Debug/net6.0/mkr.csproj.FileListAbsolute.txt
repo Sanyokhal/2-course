@@ -1,0 +1,15 @@
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\bin\Debug\net6.0\mkr.exe
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\bin\Debug\net6.0\mkr.deps.json
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\bin\Debug\net6.0\mkr.runtimeconfig.json
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\bin\Debug\net6.0\mkr.dll
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\bin\Debug\net6.0\mkr.pdb
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.csproj.AssemblyReference.cache
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.AssemblyInfoInputs.cache
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.AssemblyInfo.cs
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.csproj.CoreCompileInputs.cache
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.dll
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\refint\mkr.dll
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.pdb
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\mkr.genruntimeconfig.cache
+C:\Users\Dream Store\Desktop\mkr_patterns\mkr\mkr\obj\Debug\net6.0\ref\mkr.dll
