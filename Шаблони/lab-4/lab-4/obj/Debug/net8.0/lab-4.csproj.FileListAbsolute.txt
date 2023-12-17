@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\bin\Debug\net8.0\lab-4.exe
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\bin\Debug\net8.0\lab-4.deps.json
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\bin\Debug\net8.0\lab-4.runtimeconfig.json
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\bin\Debug\net8.0\lab-4.dll
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\bin\Debug\net8.0\lab-4.pdb
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.AssemblyInfo.cs
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.sourcelink.json
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.dll
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\refint\lab-4.dll
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.pdb
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\lab-4.genruntimeconfig.cache
+C:\Users\admin\Desktop\2-couse\Шаблони\lab-4\lab-4\obj\Debug\net8.0\ref\lab-4.dll
