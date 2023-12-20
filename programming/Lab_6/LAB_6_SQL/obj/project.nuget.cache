@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yN4ojuMvX0gpPW0sWzDAWEUGuEq1ZFBGL7w0WbtY5j3agOo0Q9OPD1Wlzwu0YY3l6we7UqTROUoOjGg4tuckBA==",
+  "dgSpecHash": "dCS4M48So4DiLCfXePEeC/SL/n4tqDTg8gEXdYrB7iD0+v9u0XG/60cAsqXFffQZ8lDFtXZ/9k8DqySOUNZfWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\LAB_6_SQL.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\LAB_6_SQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\SQL_LAB\\SQL_LAB\\SQL_LAB.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_5\\SQL_LAB\\SQL_LAB.csproj",
       "projectName": "SQL_LAB",
-      "projectPath": "C:\\Users\\admin\\Desktop\\SQL_LAB\\SQL_LAB\\SQL_LAB.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_5\\SQL_LAB\\SQL_LAB.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\SQL_LAB\\SQL_LAB\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_5\\SQL_LAB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

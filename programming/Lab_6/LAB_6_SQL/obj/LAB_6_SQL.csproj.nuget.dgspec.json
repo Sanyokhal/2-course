@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\LAB_6_SQL.csproj": {}
+    "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\LAB_6_SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\LAB_6_SQL.csproj": {
+    "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\LAB_6_SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\LAB_6_SQL.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\LAB_6_SQL.csproj",
         "projectName": "LAB_6_SQL",
-        "projectPath": "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\LAB_6_SQL.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\LAB_6_SQL.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\programming_labs\\LAB_6_SQL\\LAB_6_SQL\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\2-couse\\programming\\Lab_6\\LAB_6_SQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

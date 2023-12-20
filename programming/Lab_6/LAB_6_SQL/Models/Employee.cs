@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace LAB_6_SQL.Models
 {
-    internal class Employee
+    internal class Auto
     {
         public int id;
-        public string surname;
+        public string surame;
         public int room_num;
         public string department_name;
         public string pc_model;
