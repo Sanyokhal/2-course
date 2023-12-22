@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\lab-4\\lab-4\\lab-4.csproj",
-      "projectName": "lab-4",
-      "projectPath": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\lab-4\\lab-4\\lab-4.csproj",
+      "projectUniqueName": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\mkr_2\\mkr_2\\mkr_2.csproj",
+      "projectName": "mkr_2",
+      "projectPath": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\mkr_2\\mkr_2\\mkr_2.csproj",
       "packagesPath": "C:\\Users\\Dream Store\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\lab-4\\lab-4\\obj\\",
+      "outputPath": "C:\\Users\\Dream Store\\Desktop\\2-course\\Шаблони\\mkr_2\\mkr_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dream Store\\AppData\\Roaming\\NuGet\\NuGet.Config",

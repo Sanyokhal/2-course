@@ -1,0 +1,15 @@
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\bin\Debug\net8.0\mkr_2.exe
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\bin\Debug\net8.0\mkr_2.deps.json
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\bin\Debug\net8.0\mkr_2.runtimeconfig.json
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\bin\Debug\net8.0\mkr_2.dll
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\bin\Debug\net8.0\mkr_2.pdb
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.AssemblyInfoInputs.cache
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.AssemblyInfo.cs
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.csproj.CoreCompileInputs.cache
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.sourcelink.json
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.dll
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\refint\mkr_2.dll
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.pdb
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\mkr_2.genruntimeconfig.cache
+C:\Users\Dream Store\Desktop\2-course\Шаблони\mkr_2\mkr_2\obj\Debug\net8.0\ref\mkr_2.dll
