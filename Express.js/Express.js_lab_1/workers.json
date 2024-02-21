@@ -1,0 +1,28 @@
+[
+  {
+    "surname": "Hal",
+    "room_num": 102,
+    "section": "Wed dev",
+    "pc_data": {
+      "cpu": "i7-7000k",
+      "gpu": "GTX-1660 TUF OC",
+      "ram": 16
+    }
+  },
+  {
+    "surname": "Kevpanych",
+    "room_num": 104,
+    "section": "Data analytics",
+    "pc_data": {
+      "cpu": "i9-9900k",
+      "gpu": "RTX-3060",
+      "ram": 32
+    }
+  },
+  {
+    "pc_data": {}
+  },
+  {
+    "pc_data": {}
+  }
+]
