@@ -1,7 +1,9 @@
 const express = require('express')
 const app = express()
 const port = 3005
-
+import {uid} from 'uid';
+// видалення uid
+// get uid
 const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
@@ -9,6 +11,7 @@ app.use(bodyParser.json());
 let temp_database = [
     {
         surname: "Hal",
+        id: uid(),
         room_num: 102,
         section: "Wed dev",
         pc_data: {
@@ -19,6 +22,7 @@ let temp_database = [
     },
     {
         surname: "Kevpanych",
+        id: uid(),
         room_num: 104,
         section: "Data analytics",
         pc_data: {
@@ -29,6 +33,7 @@ let temp_database = [
     },
     {
         surname: "Viktor",
+        id: uid(),
         room_num: 110,
         section: "WEB DEV",
         pc_data: {
@@ -53,6 +58,7 @@ app.get('/:id', (req, res) => { // виведе об'єкт з специфіч�
 app.post('/', (req, res) => { // створить об'єкт
     const newWorker = {
         "surname": req.body.surname,
+        "id": uid(),
         "room_num": req.body.room_num,
         "section": req.body.section,
         "pc_data": {
@@ -65,22 +71,25 @@ app.post('/', (req, res) => { // створить об'єкт
     res.status(201).send('Створено успішно')
 })
 app.post('/:id', (req, res) => { // редагує об'єкт з таким id
-    const editedWorker = {
-        "surname": req.body.surname,
-        "room_num": req.body.room_num,
-        "section": req.body.section,
-        "pc_data": {
-            "cpu": req.body.cpu,
-            "gpu": req.body.gpu,
-            "ram": req.body.ram
+        for (let i in temp_database) {
+            if (temp_database[i].id === req.params.id) {
+                temp_database[i].surname = req.body.surname;
+                temp_database[i].room_num = req.body.room_num;
+                temp_database[i].section = req.body.section;
+                temp_database[i].pc_data = {
+                    "cpu": req.body.cpu,
+                    "gpu": req.body.gpu,
+                    "ram": req.body.ram
+                }
+                break;
+            }
         }
-    };
-    temp_database[req.params.id - 1] = editedWorker
-    res.status(201).send('Відредаговано успішно')
-})
+        res.status(201).send('Відредаговано успішно')
+    }
+)
 //DELETE REQUESTS
-app.delete('/:name', (req, res) => { // видалить об'єкт
-    let result = temp_database.filter((worker) => worker.surname !== req.params.name)
+app.delete('/:id', (req, res) => { // видалить об'єкт
+    let result = temp_database.filter((worker) => worker.id !== req.params.id)
     if (result.length === temp_database.length) {
         res.status(200).send('Не було видалено ні одного записа')
     } else {
