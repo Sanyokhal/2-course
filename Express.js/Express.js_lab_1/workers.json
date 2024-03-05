@@ -20,9 +20,13 @@
     }
   },
   {
-    "pc_data": {}
-  },
-  {
-    "pc_data": {}
+    "surname": "Viktor",
+    "room_num": 110,
+    "section": "WEB DEV",
+    "pc_data": {
+      "cpu": "i9-9400f",
+      "gpu": "4060TI",
+      "ram": 64
+    }
   }
 ]
