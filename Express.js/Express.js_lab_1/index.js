@@ -42,10 +42,10 @@ let temp_database = [
 
 // GET REQUESTS
 app.get('/', (req, res) => { // виведе всі об'єкти
-    res.end(JSON.stringify(temp_database))
+    res.json(temp_database);
 })
 app.get('/:id', (req, res) => { // виведе об'єкт з специфічним id
-    res.end(JSON.stringify(temp_database[req.params.id - 1]))
+    res.json(temp_database[req.params.id - 1])
 })
 
 
