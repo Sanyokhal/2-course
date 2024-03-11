@@ -1,0 +1,50 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Хост: 127.0.0.1
+-- Час створення: Бер 11 2024 р., 18:55
+-- Версія сервера: 10.4.28-MariaDB
+-- Версія PHP: 8.2.4
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+--
+-- База даних: `express_js_lab`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Структура таблиці `computer_data`
+--
+
+CREATE TABLE `computer_data` (
+  `id` int(11) NOT NULL,
+  `gpu` varchar(32) DEFAULT NULL,
+  `cpu` varchar(32) DEFAULT NULL,
+  `ram` int(3) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Індекси збережених таблиць
+--
+
+--
+-- Індекси таблиці `computer_data`
+--
+ALTER TABLE `computer_data`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT для збережених таблиць
+--
+
+--
+-- AUTO_INCREMENT для таблиці `computer_data`
+--
+ALTER TABLE `computer_data`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+COMMIT;

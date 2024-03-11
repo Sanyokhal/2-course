@@ -1,0 +1,56 @@
+POST localhost:3005/
+Content-Type: application/json
+
+{
+  "surname": "Hal",
+  "room_num": 16,
+  "group_name": "Front-end WebDev",
+  "pc_id": 1
+}
+
+###
+GET localhost:3005
+Accept: application/json
+
+###
+GET localhost:3005/1
+Accept: application/json
+
+###
+GET localhost:3005/computers
+Accept: application/json
+
+###
+GET localhost:3005/computers/1
+Accept: application/json
+
+###
+DELETE localhost:3005/remove/id/1
+Accept: application/json
+
+###
+DELETE localhost:3005/remove/surname/Hal
+Accept: application/json
+
+###
+POST localhost:3005/1
+Content-Type: application/json
+
+{
+  "surname": "Hal_1",
+  "room_num": 16,
+  "group_name": "Front-end WebDev",
+  "pc_id": 1
+}
+
+###
+POST localhost:3005/computers
+Content-Type: application/json
+
+{
+  "gpu": "GTX-1660 TUF OC",
+  "cpu": "I-5 9400F",
+  "ram": 8
+}
+
+###
