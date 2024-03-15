@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const port = 3005
-import {uid} from 'uid';
+const {v4: uuidv4} = require('uuid');
 // видалення uid
 // get uid
 const bodyParser = require('body-parser');
@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 let temp_database = [
     {
         surname: "Hal",
-        id: uid(),
+        id: uuidv4(),
         room_num: 102,
         section: "Wed dev",
         pc_data: {
@@ -22,7 +22,7 @@ let temp_database = [
     },
     {
         surname: "Kevpanych",
-        id: uid(),
+        id: uuidv4(),
         room_num: 104,
         section: "Data analytics",
         pc_data: {
@@ -33,7 +33,7 @@ let temp_database = [
     },
     {
         surname: "Viktor",
-        id: uid(),
+        id: uuidv4(),
         room_num: 110,
         section: "WEB DEV",
         pc_data: {
@@ -50,7 +50,8 @@ app.get('/', (req, res) => { // виведе всі об'єкти
     res.json(temp_database);
 })
 app.get('/:id', (req, res) => { // виведе об'єкт з специфічним id
-    res.json(temp_database[req.params.id - 1])
+    let result = temp_database.filter((worker) => worker.id === req.params.id)
+    res.json(result)
 })
 
 
@@ -58,7 +59,7 @@ app.get('/:id', (req, res) => { // виведе об'єкт з специфіч�
 app.post('/', (req, res) => { // створить об'єкт
     const newWorker = {
         "surname": req.body.surname,
-        "id": uid(),
+        "id": uuidv4(),
         "room_num": req.body.room_num,
         "section": req.body.section,
         "pc_data": {
