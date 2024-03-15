@@ -25,7 +25,7 @@ CREATE TABLE `worker` (
   `id` int(11) NOT NULL,
   `surname` varchar(64) DEFAULT NULL,
   `room_num` int(8) DEFAULT NULL,
-  `group_name` int(64) DEFAULT NULL,
+  `group_name` varchar(64) DEFAULT NULL,
   `pc_id` int(8) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
