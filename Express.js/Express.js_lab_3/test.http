@@ -1,14 +1,3 @@
-POST localhost:3005/
-Content-Type: application/json
-
-{
-  "surname": "Hal",
-  "room_num": 16,
-  "group_name": "Front-end WebDev",
-  "pc_id": 1
-}
-
-###
 GET localhost:3005
 Accept: application/json
 
@@ -16,6 +5,9 @@ Accept: application/json
 GET localhost:3005/1
 Accept: application/json
 
+###
+GET localhost:3005/logs
+Accept: application/json
 ###
 GET localhost:3005/computers
 Accept: application/json
@@ -33,7 +25,7 @@ DELETE localhost:3005/remove/surname/Hal
 Accept: application/json
 
 ###
-POST localhost:3005/1
+PATCH localhost:3005/1
 Content-Type: application/json
 
 {
@@ -44,6 +36,16 @@ Content-Type: application/json
 }
 
 ###
+PATCH localhost:3005/computers/1
+Content-Type: application/json
+
+{
+  "gpu": "RTX 4090 TI",
+  "cpu": "i9-9400F",
+  "ram": 32
+}
+
+###
 POST localhost:3005/computers
 Content-Type: application/json
 
@@ -51,6 +53,17 @@ Content-Type: application/json
   "gpu": "GTX-1660 TUF OC",
   "cpu": "I-5 9400F",
   "ram": 8
+}
+
+###
+POST localhost:3005/
+Content-Type: application/json
+
+{
+  "surname": "Hal",
+  "room_num": 16,
+  "group_name": "Front-end WebDev",
+  "pc_id": 1
 }
 
 ###

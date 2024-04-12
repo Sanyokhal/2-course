@@ -18,7 +18,7 @@ export async function getWorkerById(id) {
 }
 
 export async function getPcDataList() {
-    const [rows] = await pool.query("SELECT * FROM computer_data")
+    let [rows] = await pool.query("SELECT * FROM computer_data")
     return rows
 }
 
@@ -49,5 +49,9 @@ export async function createNewPc(gpu, cpu, ram) {
 
 export async function editWorkerById(id, surname, room_num, group_name, pc_id) {
     let [res] = await pool.query("UPDATE worker SET surname = ?, room_num = ?, group_name = ?, pc_id =? WHERE id = ?", [surname, room_num, group_name, pc_id, id])
+    return res.affectedRows
+}
+export async function patchComputer(id, gpu, cpu, ram){
+    let [res] =  await pool.query("UPDATE computer_data SET gpu = ?, cpu = ?, ram = ? WHERE id = ?", [gpu, cpu,ram, id])
     return res.affectedRows
 }
