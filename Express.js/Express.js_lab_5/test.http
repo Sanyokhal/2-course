@@ -1,0 +1,73 @@
+GET {{url}}
+Accept: application/json
+
+###
+GET {{url}}/1
+Accept: application/json
+
+###
+GET {{url}}/computers
+Accept: application/json
+
+###
+GET {{url}}/computers/1
+Accept: application/json
+
+###
+DELETE {{url}}/remove/id/1
+Accept: application/json
+
+###
+DELETE {{url}}/remove/surname/Hal
+Accept: application/json
+
+###
+PATCH {{url}}/1
+Content-Type: application/json
+
+{
+  "surname": "Hal_1",
+  "room_num": 16,
+  "group_name": "Front-end WebDev",
+  "pc_id": 1
+}
+
+###
+PATCH {{url}}/computers/1
+Content-Type: application/json
+
+{
+  "gpu": "RTX 4090 TI",
+  "cpu": "i9-9400F",
+  "ram": 32
+}
+
+###
+POST {{url}}/computers
+Content-Type: application/json
+
+{
+  "gpu": "GTX-1660 TUF OC",
+  "cpu": "I-5 9400F",
+  "ram": 8
+}
+
+###
+POST {{url}}/
+Content-Type: application/json
+
+{
+  "surname": "Hal",
+  "room_num": -16,
+  "group_name": "Front-end WebDev",
+  "pc_id": 1
+}
+
+###
+POST {{url}}/login
+Content-Type: application/json
+
+{
+  "username": "ESAR0",
+  "password": "12345678"
+}
