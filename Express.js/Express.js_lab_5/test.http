@@ -68,6 +68,20 @@ POST {{url}}/login
 Content-Type: application/json
 
 {
-  "username": "ESAR0",
+  "username": "ESAR1",
   "password": "12345678"
 }
+
+###
+POST {{url}}/create
+Content-Type: application/json
+
+{
+  "username": "ESAR1",
+  "password": "12345678",
+  "first_name": "Sasha",
+  "last_name": "Hal"
+}
+###
+POST {{url}}/signout
+Content-Type: application/json

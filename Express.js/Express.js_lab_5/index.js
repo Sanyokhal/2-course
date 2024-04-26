@@ -5,7 +5,7 @@ import {body, validationResult} from 'express-validator'
 import {
     checkUser,
     createNewPc,
-    createNewWorker,
+    createNewWorker, createUser,
     editWorkerById,
     getAllWorkers,
     getPcDataById,
@@ -98,12 +98,16 @@ app.post('/login', [
         body('username').notEmpty().isString(),
         body('password').notEmpty().isString()],
     async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) {
+            res.status(400).json({errors: errors.array()})
+        }
         let check = await checkUser(req.body['username'])
         if (check) {
             throw createError.NotFound('There is no User with such username');
         }
         let user = await getUser(req.body['username']);
-        const passwordCheck = await bcrypt.compare(user['password'], req.body.password);
+        const passwordCheck = await bcrypt.compare(req.body.password, user['password']);
         if (!passwordCheck) {
             throw createError.Unauthorized('Incorrect password');
         }
@@ -128,6 +132,25 @@ app.post('/signout', async (req, res) => {
     } catch (err) {
         console.error(err)
     }
+})
+
+app.post('/create', [body('username').notEmpty().isString(),
+    body('password').notEmpty().isString(),
+    body('first_name').notEmpty().isString(), body('last_name').notEmpty().isString()
+], async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+        res.status(400).json({errors: errors.array()})
+    }
+    let {username, password, first_name, last_name} = req.body;
+    let check = await checkUser(username);
+    if (!check) {
+        throw createError.Unauthorized('User exists');
+    }
+    let crypted_pass = await bcrypt.hash(password, 10);
+    let result = await createUser(username, crypted_pass, first_name, last_name);
+    console.log("User created. ID = " + result)
+    res.json(result);
 })
 
 app.patch('/:id', [authCheck,
