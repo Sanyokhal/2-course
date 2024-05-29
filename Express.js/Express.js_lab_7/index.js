@@ -22,8 +22,8 @@ import bcrypt from 'bcrypt';
 import {authCheck} from './middlewares/auth.middleware.js'
 import {signToken} from './services/auth.service.js'
 
-const startScheduleJobs = require('./jobs');
-
+// const startScheduleJobs = require('./jobs/index');
+import {startScheduleJobs} from './jobs/index.js'
 const fs = require('fs');
 const path = require('path');
 const {promisify} = require('util');
